@@ -39,9 +39,9 @@ You can define as many (or as few) Phonebooks as you like.  There are two ways t
 
 The keys above are used as follows:
 
-* **`url`**: The url that your requests will use as their "base".  Any requests that specify a URL will have that URL prepended with this
-* **`options`**: Any additional options you'd like to pass to the internal `jQuery.ajax` requests
-* **`data`**: Any data you'd like to pass to the `jQuery.ajax` requests
+* `url`: The url that your requests will use as their "base".  Any requests that specify a URL will have that URL prepended with this
+* `options`: Any additional options you'd like to pass to the internal `jQuery.ajax` requests
+* `data`: Any data you'd like to pass to the `jQuery.ajax` requests
 
 You can define multiple phonebooks (for example, you have a versioned API and need to talk to both version on one page):
 
