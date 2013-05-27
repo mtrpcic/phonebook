@@ -171,7 +171,5 @@ If you have an addition to the library, please follow these steps:
 3. Do not bump the version number, that will be done by me when merging the pull request
 4. Make your pull request!
 
-To make a pull request, please do the following:
-
 ## License
 Copyright (c) 2013 Mike Trpcic, released under the MIT license.
